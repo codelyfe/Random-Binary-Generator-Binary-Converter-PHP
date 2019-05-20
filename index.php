@@ -1,7 +1,7 @@
 <?php
 
 // 0 or 1  
-b0 = rand(0, 1); 
+$b0 = rand(0, 1); 
 
 // 0 or 1 
 $b1 = rand(0, 1);
